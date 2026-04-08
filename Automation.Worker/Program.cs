@@ -37,7 +37,7 @@ if (args.Length > 0 && args[0].ToLower() == "setup")
     cred.Save("usuario_teste", usuario!);
     cred.Save("senha_teste", senha);
 
-    Console.WriteLine("Credenciais salvas com sucesso!");
+    Console.WriteLine("Credenciais salvas com sucesso!!!");
     return;
 }
 
