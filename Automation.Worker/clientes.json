@@ -1,0 +1,8 @@
+{
+  "Clientes": [
+    {
+      "Nome": "Empresa Teste",
+      "Robots": [ "NFRobot" ]
+    }
+  ]
+}
