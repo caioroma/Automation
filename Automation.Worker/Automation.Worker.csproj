@@ -5,7 +5,6 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>dotnet-Automation.Worker-d2d76919-0df5-4ca8-90fa-361c349188df</UserSecretsId>
-	<OutputType>WinExe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>

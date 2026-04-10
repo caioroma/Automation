@@ -1,4 +1,5 @@
 ﻿using Automation.Core;
+using Automation.Infrastructure.Security;
 using Microsoft.Playwright;
 using Serilog;
 
